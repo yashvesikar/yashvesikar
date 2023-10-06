@@ -1,4 +1,4 @@
-### Hi
+### Howdy
 <!--
 **yashvesikar/yashvesikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,9 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Yash's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yashvesikar&count_private=true&show_icons=true&theme=dark)
-
-<a href="https://twitter.com/yashvesikar">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-
-</a>
